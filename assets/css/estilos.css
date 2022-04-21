@@ -7,8 +7,9 @@ body {
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:auto;
   background-position: left;
+  background-color:#4682b4;
 }
 
 /* Mis trabajos */
@@ -17,7 +18,7 @@ body {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position:top;
 }
 
 /* Contacto */
